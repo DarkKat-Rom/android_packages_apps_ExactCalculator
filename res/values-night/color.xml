@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  Copyright (C) 2015 The Android Open Source Project
+
+  Licensed under the Apache License, Version 2.0 (the "License");
+  you may not use this file except in compliance with the License.
+  You may obtain a copy of the License at
+
+    http://www.apache.org/licenses/LICENSE-2.0
+
+  Unless required by applicable law or agreed to in writing, software
+  distributed under the License is distributed on an "AS IS" BASIS,
+  WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  See the License for the specific language governing permissions and
+  limitations under the License.
+  -->
+
+<resources>
+
+    <!-- Material theme -->
+    <color name="material_grey_850">#ff303030</color>
+    <color name="material_grey_800">#ff424242</color>
+
+    <color name="display_background_color">#000</color>
+    <color name="display_formula_text_color">#b3ffffff</color>
+    <color name="display_result_text_color">#8Cffffff</color>
+    <color name="display_result_exponent_text_color">#40ffffff</color>
+    <color name="pad_numeric_background_color">@color/material_grey_850</color>
+    <color name="pad_operator_background_color">@color/material_grey_800</color>
+    <color name="pad_button_advanced_text_color">#ffffffff</color>
+    <color name="pad_button_ripple_color">#33ffffff</color>
+    <color name="pad_button_advanced_ripple_color">#33ffffff</color>
+</resources>
